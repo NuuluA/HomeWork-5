@@ -129,7 +129,6 @@ extension TrackCar: CustomStringConvertible {
         return "Вид грузовой автомобиль"
     }
 }
-
 print(trackCar.description)
 
 
